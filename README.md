@@ -15,11 +15,12 @@ Le joueur contrôle Harry Potter. Le but est de voler le plus loin possible sans
 
 ## ⬇️ Télécharger (Windows)
 
-Pas envie d'installer Python ? Téléchargez l'exécutable directement depuis la page
-[Releases](https://github.com/EspritCode/Harry-Potter-Flappy-Wings/releases) :
+Pas envie d'installer Python ? Télécharge l'exécutable :
 
-1. Télécharger `HarryPotter.exe` (build automatique via GitHub Actions).
-2. Double-cliquer sur `main.exe` pour jouer.
+- Depuis la page [Releases](https://github.com/EspritCode/Harry-Potter-Flappy-Wings/releases) → `v1.0.1` → `HarryPotter.exe`
+- Ou directement à la racine de ce dépôt : [`HarryPotter.exe`](HarryPotter.exe) (clique sur le nom du fichier → *Download raw file*)
+
+Double-cliquer ensuite sur `HarryPotter.exe` pour jouer (Windows).
 
 ## 🚀 Installation (depuis les sources)
 

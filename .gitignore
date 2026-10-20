@@ -1,0 +1,20 @@
+# Artefacts de build PyInstaller
+build/
+dist/
+*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec.bak
+.venv/
+venv/
+env/
+
+# Outils / OS / IDE
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
